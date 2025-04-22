@@ -4,14 +4,14 @@ $galleryItems = [
     ['name' => 'CMR.jpg', 'alt' => 'Photo 2'],
     ['name' => 'DSC_1831.JPG', 'alt' => 'Photo 3'],
     ['name' => 'Federal Bank.JPG', 'alt' => 'Photo 4'],
-    ['name' => 'Honda cars.jpg', 'alt' => 'Photo 4'],
-    ['name' => 'Hughes systique.jpg', 'alt' => 'Photo 4'],
-    ['name' => 'IMG-20220919-WA0026 (1).jpg', 'alt' => 'Photo 4'],
-    ['name' => 'JBM.jpg', 'alt' => 'Photo 4'],
-    ['name' => 'Lumax Industry.jpg', 'alt' => 'Photo 4'],
-    ['name' => 'Maruti Suzuki.jpg', 'alt' => 'Photo 4'],
-    ['name' => 'wipro.jpg', 'alt' => 'Photo 4'],
-    // [ 'name' => 'Yahama.HEIC', 'alt' => 'Photo 4' ],
+    ['name' => 'Honda cars.jpg', 'alt' => 'Photo 5'],
+    ['name' => 'Hughes systique.jpg', 'alt' => 'Photo 5'],
+    ['name' => 'JBM.jpg', 'alt' => 'Photo 6'],
+    ['name' => 'Lumax Industry.jpg', 'alt' => 'Photo 7'],
+    ['name' => 'Maruti Suzuki.jpg', 'alt' => 'Photo 8'],
+    ['name' => 'wipro.jpg', 'alt' => 'Photo 9'],
+    // ['name' => 'IMG-20220919-WA0026 (1).jpg', 'alt' => 'Photo 10'],
+    // [ 'name' => 'Yahama.HEIC', 'alt' => 'Photo 11' ],
 ];
 
 function renderGallery($gItems)

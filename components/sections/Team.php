@@ -6,7 +6,7 @@
             <div>
                 <b>Dr. Nikhil Marriwala</b>
                 <p>Training & Placement Officer</p>
-                <p>Contact No. 9416668482</p>
+                <p>Contact: 9416668482</p>
                 <p>Email ID: nmarriwala@kuk.ac.in</p>
             </div>
         </div>
@@ -15,7 +15,7 @@
             <div>
                 <b>Dr. Sanjeev Ahuja</b>
                 <p>Training & Placement Officer</p>
-                <p>Contact No. 9991385634</p>
+                <p>Contact: 9991385634</p>
                 <p>Email ID: sahuja2015@kuk.ac.in</p>
             </div>
         </div>
@@ -24,7 +24,7 @@
             <div>
                 <b>Dr. Sunil Dhingra</b>
                 <p>Training & Placement Officer</p>
-                <p>Contact No. 9541653750</p>
+                <p>Contact: 9541653750</p>
                 <p>Email ID: sdhingra2020@gmail.com</p>
             </div>
         </div>
@@ -33,7 +33,7 @@
             <div>
                 <b>Shikha Chaudhry</b>
                 <p>Assistant Professor</p>
-                <p>Contact No. 01744239155</p>
+                <p>Contact: 01744239155</p>
                 <p>Email ID: shikhachaudhry107@gmail.com</p>
             </div>
         </div>
@@ -42,7 +42,7 @@
             <div>
                 <b>Pragya Chandi</b>
                 <p>Assistant Professor</p>
-                <p>Contact No. 01744239155</p>
+                <p>Contact: 01744239155</p>
                 <p>Email ID: pragya.cse.uiet@kuk.ac.in</p>
             </div>
         </div>
