@@ -2,6 +2,12 @@
     <a href="?section=Home">
         Home
     </a>
+    <a href="?section=StudentCoordinators">
+        Student Coordinators
+    </a>
+    <a href="?section=ExecutiveCommitees">
+        Executive Commitees
+    </a>
     <a href="?section=Placements">
         Placements
     </a>

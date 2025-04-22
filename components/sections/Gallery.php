@@ -29,7 +29,7 @@ function renderGallery($gItems)
 ?>
 
 <div style="display: flex; flex-direction: column; width: 100%; height:100%; align-items: center;">
-    <h1>Gallery</h1>
+    <h1 class="heading">Gallery</h1>
     <div id="Gallery">
         <?php
     renderGallery($galleryItems)
@@ -38,14 +38,6 @@ function renderGallery($gItems)
 </div>
 
 <style>
-    h1{
-        background-color: rgb(31, 65, 185);
-        color: aliceblue;
-        width: 100%; 
-        padding: 10px;
-        text-align: center;
-        font-size: 50px;
-    }
     #Gallery {
         display: flex;
         width: 100%;

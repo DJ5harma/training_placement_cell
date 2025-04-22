@@ -1,5 +1,5 @@
 <div style="display: flex; flex-direction: column; width: 100%; height:100%; align-items: center;">
-    <h1>Our Team</h1>
+    <h1 class="heading">Our Team</h1>
     <div id="Team">
         <div>
             <img src="images/drnikhil.jpg" alt="Dr. Nikhil Marriwala">
@@ -29,14 +29,6 @@
 </div>
 
 <style>
-    h1{
-        background-color: rgb(31, 65, 185);
-        color: aliceblue;
-        width: 100%; 
-        padding: 10px;
-        text-align: center;
-        font-size: 50px;
-    }
     #Team {
         display: flex;
         width: 100%;

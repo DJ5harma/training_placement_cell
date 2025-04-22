@@ -2,7 +2,7 @@
 $year = $_GET['year'] ?? '2025';
 ?>
 <div id="Placement">
-    <h1>Placements for the year
+    <h1 class="heading">Placements for the year
         <?php echo $year; ?>
     </h1>
     <div id="PlacementYearChooser">
@@ -24,15 +24,6 @@ $year = $_GET['year'] ?? '2025';
 </div>
 
 <style>
-    h1{
-        background-color: rgb(31, 65, 185);
-        color: aliceblue;
-        width: 100%; 
-        height: 100%;
-        padding: 10px;
-        text-align: center;
-        font-size: 50px;
-    }
     #Placement {
         display: flex;
         width: 100%;
@@ -43,7 +34,6 @@ $year = $_GET['year'] ?? '2025';
         align-items: center;
 
         gap: 20px;
-        padding: 10px 0;
     }
 
     #PlacementYearChooser {
