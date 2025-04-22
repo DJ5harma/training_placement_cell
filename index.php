@@ -12,7 +12,7 @@ $section = $_GET['section'] ?? 'Home';
 
 <body>
   <div style="display: flex;">
-    <div style="width: 10vw; height:100vh;">
+    <div style="height:100vh; min-width: 150px; width: 10vw;">
       <?php
       include 'components/Sidebar.php';
       ?>

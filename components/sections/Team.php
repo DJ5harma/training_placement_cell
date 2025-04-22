@@ -4,7 +4,7 @@
         <div>
             <img src="images/drnikhil.jpg" alt="Dr. Nikhil Marriwala">
             <div>
-                <p>Dr. Nikhil Marriwala</p>
+                <b>Dr. Nikhil Marriwala</b>
                 <p>Training & Placement Officer</p>
                 <p>Contact No. 9416668482</p>
             </div>
@@ -12,15 +12,15 @@
         <div>
             <img src="images/drsanjeev.jpg" alt="Dr. Sanjeev Ahuja">
             <div>
-                <p>Dr. Sanjeev Ahuja</p>
+                <b>Dr. Sanjeev Ahuja</b>
                 <p>Training & Placement Officer</p>
-                <p>No. 9991385634</p>
+                <p>Contact No. 9991385634</p>
             </div>
         </div>
         <div>
             <img src="images/DrSunilDhingra.jpeg" alt="Dr. Sunil Dhingra">
             <div>
-                <p>Dr. Sunil Dhingra</p>
+                <b>Dr. Sunil Dhingra</b>
                 <p>Training & Placement Officer</p>
                 <p>Contact No. 9541653750</p>
             </div>
@@ -53,9 +53,11 @@
 
         div {
             display: flex;
-            gap: 30px;
-
+            background-color: rgb(31, 65, 185);
+            border-radius: 20px;
+            
             img {
+                border-radius: 20px;
                 width: 300px;
             }
 
@@ -64,9 +66,11 @@
                 flex-direction: column;
                 gap: 10px;
                 justify-content: center;
+                padding: 0 30px;
 
-                p {
+                p,b {
                     font-size: larger;
+                    color: aliceblue;
                 }
             }
         }

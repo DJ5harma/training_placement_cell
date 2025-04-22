@@ -49,19 +49,17 @@ function renderGallery($gItems)
     #Gallery {
         display: flex;
         width: 100%;
-        /* flex-direction: column; */
-        flex-wrap: wrap;
+        flex-direction: column;
         overflow: auto;
         max-height: 100%;
 
         align-items: center;
-        justify-content: center;
 
         gap: 20px;
         padding: 10px 0;
 
         div {
-            width: 60%;
+            width: 90%;
             display: flex;
             flex-direction: column;
             align-items: center;
