@@ -5,9 +5,9 @@
     <a href="?section=StudentCoordinators">
         Student Coordinators
     </a>
-    <a href="?section=ExecutiveCommitees">
+    <!-- <a href="?section=ExecutiveCommitees">
         Executive Commitees
-    </a>
+    </a> -->
     <a href="?section=Placements">
         Placements
     </a>
