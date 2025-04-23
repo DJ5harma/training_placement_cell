@@ -20,8 +20,8 @@
     <a href="?section=Gallery">
         Gallery
     </a>
-    <a href="?section=Contact">
-        Contact
+    <a href="?section=Partners">
+        Our Partners
     </a>
     <a href="?section=About">
         About
