@@ -11,6 +11,9 @@
     <a href="?section=Placements">
         Placements
     </a>
+    <a href="?section=Partners">
+        Our Partners
+    </a>
     <a href="?section=Messages">
         Messages from T&P Officers
     </a>
@@ -19,9 +22,6 @@
     </a>
     <a href="?section=Gallery">
         Gallery
-    </a>
-    <a href="?section=Partners">
-        Our Partners
     </a>
     <a href="?section=About">
         About
