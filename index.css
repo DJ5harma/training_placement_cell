@@ -1,9 +1,13 @@
+/* body {
+	border: solid;
+} */
 .heading {
 	background-color: rgb(31, 65, 185);
 	color: aliceblue;
 	width: 100%;
 	padding: 20px;
 	text-align: center;
-	font-size: 50px;
+	font-size: 30px;
 	margin: 0;
+	height: 80px;
 }

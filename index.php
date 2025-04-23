@@ -11,18 +11,18 @@ $section = $_GET['section'] ?? 'Home';
 </head>
 
 <body>
-  <div style="display: flex; ">
-    <div style="height:100vh; min-width: 150px; width: 10vw;">
-      <?php
-      include 'components/Sidebar.php';
-      ?>
+  <div style="display: flex; height: 100vh;">
+    <!-- Sidebar -->
+    <div style="width: 10vw; min-width: 150px;">
+      <?php include 'components/Sidebar.php'; ?>
     </div>
-    <div style="width: 90vw; height:100vh;">
-      <?php
-      include 'components/sections/' . $section . '.php';
-      ?>
+
+    <!-- Main Content -->
+    <div style="flex: 1;">
+      <?php include 'components/sections/' . $section . '.php'; ?>
     </div>
   </div>
+
   <!-- <div class="logo-image">
     <img src="images/logo.png" alt="Cover Image">
      <div id="placements">
