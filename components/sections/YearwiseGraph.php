@@ -5,7 +5,8 @@
         src="https://chart-generator.draxlr.com/embed/uxXvhBaOxVv6qfjT6l2x3EQeDthLcgQg"
         loading="lazy"
         title="Avg package bar chart"
-        frameborder="0"></iframe>
+        frameborder="0"
+    ></iframe>
 
     <!-- Incase the iframe fails in the future, uncomment the line below to load the static png of the interactive graph and comment the iframe -->
     <!-- <img src="data/YearwiseAveragePackageGraph.png" alt="Avg. package year-wise graph"> -->
@@ -21,7 +22,7 @@
 
         iframe {
             width: 100%;
-            height: 100%;
+            height: 50%;
         }
 
         img {
@@ -33,11 +34,5 @@
             overflow: auto;
         }
 
-    }
-
-    @media (max-width: 768px) {
-        #YearwiseGraph iframe {
-            height: 60%;
-        }
     }
 </style>
