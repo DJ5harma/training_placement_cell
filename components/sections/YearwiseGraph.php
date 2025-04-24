@@ -6,6 +6,9 @@
         loading="lazy"
         title="Avg package bar chart"
         frameborder="0"></iframe>
+
+    <!-- Incase the iframe fails in the future, uncomment the line below to load the static png of the interactive graph and comment the iframe -->
+    <!-- <img src="data/YearwiseAveragePackageGraph.png" alt="Avg. package year-wise graph"> -->
 </div>
 <style>
     #YearwiseGraph {
@@ -20,6 +23,16 @@
             width: 100%;
             height: 100%;
         }
+
+        img {
+            height: 100%;
+            width: auto;
+            max-width: 100%;
+            object-fit: contain;
+            display: block;
+            overflow: auto;
+        }
+
     }
 
     @media (max-width: 768px) {
