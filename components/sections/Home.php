@@ -7,8 +7,9 @@
     <h1 class="heading">Training & Placement Cell</h1>
     <div id="background-image"></div>
 
-    <div style="width: 100%; padding: 0 30px;">
+    <div style="width: 100%; padding: 30px;">
 
+        <b>About:</b>
         <p>
 
             University Institute of Engineering & Technology (UIET) was established by Kurukshetra University in 2004 with objective to develop as a "Centre of Excellence" and offer quality technical education and to undertake research in Engineering & Technology.
