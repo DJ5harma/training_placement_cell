@@ -1,157 +1,37 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link type="text/css" rel="stylesheet" href="resources/sheet.css">
-<style type="text/css">
-    .ritz .waffle a {
-        color: inherit;
-    }
-
-    .ritz .waffle .s3 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #d8d8d8;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s5 {
-        border-left: none;
-        border-right: none;
-        border-bottom: 1px SOLID #000000;
-        background-color: #d8d8d8;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s9 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s8 {
-        border-bottom: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s2 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #d8d8d8;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 14pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s4 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 11pt;
-        vertical-align: bottom;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s1 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s0 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s6 {
-        border-left: none;
-        border-bottom: 1px SOLID #000000;
-        background-color: #d8d8d8;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s7 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 11pt;
-        vertical-align: bottom;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
+<style>
+    .s2, .s3 {
+        background-color: #007bff;
+        color: white;
     }
 </style>
+<table>
+  <thead>
+    <tr>
+      <th>Company</th>
+      <th>Number of Students Placed</th>
+      <th>Average Package (LPA)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Infosys</td><td>30</td><td>3.60</td></tr>
+    <tr><td>IBM 2017-18</td><td>8</td><td>3.60</td></tr>
+    <tr><td>Cryptographics IT Solution</td><td>7</td><td>3.60</td></tr>
+    <tr><td>Wipro Limited</td><td>12</td><td>3.60</td></tr>
+    <tr><td>Byjus Pvt Limited</td><td>1</td><td>3.60</td></tr>
+    <tr><td>Adani</td><td>5</td><td>3.60</td></tr>
+    <tr><td>Daikin AC</td><td>1</td><td>3.60</td></tr>
+    <tr><td>IDS Infotech</td><td>5</td><td>3.60</td></tr>
+    <tr><td>British Telecom</td><td>4</td><td>3.60</td></tr>
+    <tr><td>Saifintex</td><td>5</td><td>3.60</td></tr>
+    <tr><td>Samsung</td><td>3</td><td>3.60</td></tr>
+    <tr><td>Talent Pull</td><td>7</td><td>3.60</td></tr>
+    <tr><td>Panacea Biotec</td><td>1</td><td>3.60</td></tr>
+    <tr><td>Signicent</td><td>1</td><td>3.60</td></tr>
+    <tr><td>Bosch</td><td>3</td><td>3.60</td></tr>
+    <tr><td>Perfect RFID</td><td>1</td><td>2.00</td></tr>
+    <tr><td>TCS</td><td>1</td><td>3.36</td></tr>
+  </tbody>
+</table>
 <div class="ritz grid-container" dir="ltr">
     <table class="waffle" cellspacing="0" cellpadding="0">
         <tbody>

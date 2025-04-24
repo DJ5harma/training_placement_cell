@@ -1,98 +1,35 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link type="text/css" rel="stylesheet" href="resources/sheet.css">
-<style type="text/css">
-    .ritz .waffle a {
-        color: inherit;
-    }
-
-    .ritz .waffle .s0 {
-        border-right: none;
-        border-bottom: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s5 {
-        border-bottom: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: left;
-        color: #000000;
-        font-family: docs-Calibri, Arial;
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s1 {
-        border-left: none;
-        border-right: none;
-        border-bottom: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s4 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #d8d8d8;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s2 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s3 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #d8d8d8;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 13pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
+<style>
+    .s3 {
+        background-color: #007bff;
+        color: white;
     }
 </style>
+
+<table>
+  <thead>
+    <tr>
+      <th>Company</th>
+      <th>Number of Students Placed</th>
+      <th>Average Package (LPA)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>INFOSYS</td><td>58</td><td>3.60</td></tr>
+    <tr><td>TCS</td><td>34</td><td>3.35</td></tr>
+    <tr><td>VIVO</td><td>12</td><td>3.50</td></tr>
+    <tr><td>Healthviser</td><td>7</td><td>2.50</td></tr>
+    <tr><td>Hexaware</td><td>14</td><td>3.00</td></tr>
+    <tr><td>Cognizant</td><td>18</td><td>4.00</td></tr>
+    <tr><td>Capegemini</td><td>5</td><td>3.80</td></tr>
+    <tr><td>Hughes Systique</td><td>2</td><td>6.00</td></tr>
+    <tr><td>Yamaha Motors</td><td>2</td><td>5.00</td></tr>
+    <tr><td>Amazon</td><td>2</td><td>28.00</td></tr>
+    <tr><td>BYJU'S Think and Learn</td><td>1</td><td>5.00</td></tr>
+    <tr><td>Daffodils</td><td>1</td><td>3.50</td></tr>
+    <tr><td>i Nurture</td><td>1</td><td>4.00</td></tr>
+  </tbody>
+</table>
+
 <div class="ritz grid-container" dir="ltr">
     <table class="waffle" cellspacing="0" cellpadding="0">
         <tbody>

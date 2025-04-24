@@ -1,226 +1,119 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link type="text/css" rel="stylesheet" href="resources/sheet.css">
-<style type="text/css">
-    .ritz .waffle a {
-        color: inherit;
-    }
-
-    .ritz .waffle .s4 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s10 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: left;
-        color: #000000;
-        font-family: docs-Calibri, Arial;
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s13 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: left;
-        color: #000000;
-        font-family: docs-Calibri, Arial;
-        font-size: 11pt;
-        vertical-align: bottom;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s8 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: docs-Calibri, Arial;
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s11 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: Arial;
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s9 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: left;
-        color: #222222;
-        font-family: Arial;
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s2 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #d8d8d8;
-        text-align: left;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s0 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #e7e6e6;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s7 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        text-decoration: underline;
-        text-decoration-skip-ink: none;
-        -webkit-text-decoration-skip: none;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s12 {
-        border-bottom: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s1 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s5 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: docs-Calibri, Arial;
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s3 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s6 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 10pt;
-        vertical-align: middle;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
+<style>
+    .s2 {
+        background-color: #007bff;
+        color: white;
     }
 </style>
+
+<table cellpadding="10" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Company</th>
+            <th>Number of Students Placed</th>
+            <th>Average Package (LPA)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>75way Technologies PVT. LTD.</td>
+            <td>4</td>
+            <td>4.18</td>
+        </tr>
+        <tr>
+            <td>WaySpire</td>
+            <td>24</td>
+            <td>7.00</td>
+        </tr>
+        <tr>
+            <td>JBM</td>
+            <td>10</td>
+            <td>4.50</td>
+        </tr>
+        <tr>
+            <td>Beri Udyog (Fieldking)</td>
+            <td>2</td>
+            <td>3.50</td>
+        </tr>
+        <tr>
+            <td>Airhome Stay</td>
+            <td>2</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Infosys Ltd.</td>
+            <td>52</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Academor Pvt. Ltd.</td>
+            <td>30</td>
+            <td>6.00</td>
+        </tr>
+        <tr>
+            <td>Hoping Minds</td>
+            <td>2</td>
+            <td>4.00</td>
+        </tr>
+        <tr>
+            <td>Iron Network Pvt. Ltd.</td>
+            <td>1</td>
+            <td>3.00</td>
+        </tr>
+        <tr>
+            <td>Planet Spark Pvt. Ltd.</td>
+            <td>2</td>
+            <td>6.50</td>
+        </tr>
+        <tr>
+            <td>High-Tech Next</td>
+            <td>16</td>
+            <td>3.00</td>
+        </tr>
+        <tr>
+            <td>BEL</td>
+            <td>4</td>
+            <td>11.40</td>
+        </tr>
+        <tr>
+            <td>ABACA</td>
+            <td>12</td>
+            <td>3.50</td>
+        </tr>
+        <tr>
+            <td>Sonalika Pvt. Ltd.</td>
+            <td>2</td>
+            <td>6.50</td>
+        </tr>
+        <tr>
+            <td>LTIMindtree</td>
+            <td>7</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>Cognizant</td>
+            <td>8</td>
+            <td>4.50</td>
+        </tr>
+        <tr>
+            <td>MTAS</td>
+            <td>4</td>
+            <td>3.00</td>
+        </tr>
+        <tr>
+            <td>AIVION LTD</td>
+            <td>5</td>
+            <td>3.50</td>
+        </tr>
+        <tr>
+            <td>Panacea Biotec Pvt. Ltd.</td>
+            <td>4</td>
+            <td>4.00</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
 <div class="ritz grid-container" dir="ltr">
     <table class="waffle" cellspacing="0" cellpadding="0">
         <tbody>

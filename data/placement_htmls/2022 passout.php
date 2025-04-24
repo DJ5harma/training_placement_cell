@@ -1,159 +1,276 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link type="text/css" rel="stylesheet" href="resources/sheet.css">
-<style type="text/css">
-    .ritz .waffle a {
-        color: inherit;
-    }
-
-    .ritz .waffle .s1 {
-        border-left: none;
-        border-right: none;
-        border-bottom: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: docs-Calibri, Arial;
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s4 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #d8d8d8;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s5 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: docs-Calibri, Arial;
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s3 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #d8d8d8;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 14pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s2 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: docs-Calibri, Arial;
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s6 {
-        border-left: none;
-        border-right: none;
-        border-bottom: 1px SOLID #000000;
-        background-color: #d8d8d8;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 14pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s0 {
-        border-right: none;
-        border-bottom: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: docs-Calibri, Arial;
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s8 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: left;
-        color: #000000;
-        font-family: docs-Calibri, Arial;
-        font-size: 11pt;
-        vertical-align: bottom;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s7 {
-        border-left: none;
-        border-bottom: 1px SOLID #000000;
-        background-color: #d8d8d8;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s9 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: Arial;
-        font-size: 10pt;
-        vertical-align: bottom;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
+<style>
+    .s3 {
+        background-color: #007bff;
+        color: white;
     }
 </style>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Company Name</th>
+            <th>Number of Students</th>
+            <th>Average Package (LPA)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Infosys</td>
+            <td>33</td>
+            <td>4.07</td>
+        </tr>
+        <tr>
+            <td>Yamaha Motors</td>
+            <td>3</td>
+            <td>8.00</td>
+        </tr>
+        <tr>
+            <td>Daffodil</td>
+            <td>4</td>
+            <td>5.00</td>
+        </tr>
+        <tr>
+            <td>Hexaware</td>
+            <td>4</td>
+            <td>5.00</td>
+        </tr>
+        <tr>
+            <td>Wipro</td>
+            <td>47</td>
+            <td>3.5</td>
+        </tr>
+        <tr>
+            <td>Step2gen</td>
+            <td>7</td>
+            <td>3.5</td>
+        </tr>
+        <tr>
+            <td>Henceforth</td>
+            <td>5</td>
+            <td>2.4</td>
+        </tr>
+        <tr>
+            <td>Pulsus</td>
+            <td>2</td>
+            <td>2.52</td>
+        </tr>
+        <tr>
+            <td>Bebo technology</td>
+            <td>21</td>
+            <td>3.83</td>
+        </tr>
+        <tr>
+            <td>CronJ</td>
+            <td>2</td>
+            <td>5.65</td>
+        </tr>
+        <tr>
+            <td>TCS</td>
+            <td>31</td>
+            <td>3.36</td>
+        </tr>
+        <tr>
+            <td>Forcebolt</td>
+            <td>4</td>
+            <td>3.5</td>
+        </tr>
+        <tr>
+            <td>Hitachi</td>
+            <td>2</td>
+            <td>6.5</td>
+        </tr>
+        <tr>
+            <td>Dealer Matrix</td>
+            <td>5</td>
+            <td>5.00</td>
+        </tr>
+        <tr>
+            <td>Xenon Stack</td>
+            <td>1</td>
+            <td>4.5</td>
+        </tr>
+        <tr>
+            <td>TT Consultant</td>
+            <td>2</td>
+            <td>4.5</td>
+        </tr>
+        <tr>
+            <td>Byjus</td>
+            <td>5</td>
+            <td>5.04</td>
+        </tr>
+        <tr>
+            <td>Aspirefox</td>
+            <td>7</td>
+            <td>3.5</td>
+        </tr>
+        <tr>
+            <td>Indiamart</td>
+            <td>10</td>
+            <td>8.5</td>
+        </tr>
+        <tr>
+            <td>Info Edge</td>
+            <td>1</td>
+            <td>44.0</td>
+        </tr>
+        <tr>
+            <td>Josh Technology</td>
+            <td>1</td>
+            <td>9.0</td>
+        </tr>
+        <tr>
+            <td>IDS</td>
+            <td>1</td>
+            <td>3.0</td>
+        </tr>
+        <tr>
+            <td>Exicom</td>
+            <td>1</td>
+            <td>5.0</td>
+        </tr>
+        <tr>
+            <td>Coforge</td>
+            <td>1</td>
+            <td>3.5</td>
+        </tr>
+        <tr>
+            <td>Green fuel Pvt. ltd</td>
+            <td>4</td>
+            <td>2.4</td>
+        </tr>
+        <tr>
+            <td>ABACA Pvt. ltd</td>
+            <td>10</td>
+            <td>4.0</td>
+        </tr>
+        <tr>
+            <td>Deloitte</td>
+            <td>2</td>
+            <td>3.82</td>
+        </tr>
+        <tr>
+            <td>Signoff</td>
+            <td>2</td>
+            <td>Not Provided</td>
+        </tr>
+        <tr>
+            <td>Intellipaat</td>
+            <td>1</td>
+            <td>8.65</td>
+        </tr>
+        <tr>
+            <td>Qspider</td>
+            <td>7</td>
+            <td>4.8</td>
+        </tr>
+        <tr>
+            <td>Pentagon CSR</td>
+            <td>5</td>
+            <td>3.0</td>
+        </tr>
+        <tr>
+            <td>Advanced Microdevices Pvt. Ltd</td>
+            <td>3</td>
+            <td>2.65</td>
+        </tr>
+        <tr>
+            <td>Anviam Solutions Pvt. Ltd</td>
+            <td>2</td>
+            <td>2.4</td>
+        </tr>
+        <tr>
+            <td>Byteridge Software</td>
+            <td>1</td>
+            <td>5.33</td>
+        </tr>
+        <tr>
+            <td>Chanderpur Solid Works</td>
+            <td>2</td>
+            <td>3.5</td>
+        </tr>
+        <tr>
+            <td>Lumax Industries Ltd.</td>
+            <td>5</td>
+            <td>3.1</td>
+        </tr>
+        <tr>
+            <td>Indosaw Industrial Products Pvt.Ltd.</td>
+            <td>1</td>
+            <td>3.0</td>
+        </tr>
+        <tr>
+            <td>Amber Industries</td>
+            <td>3</td>
+            <td>2.52</td>
+        </tr>
+        <tr>
+            <td>Brightway Soles</td>
+            <td>1</td>
+            <td>4.0</td>
+        </tr>
+        <tr>
+            <td>Advance Microdevices (MDI)</td>
+            <td>1</td>
+            <td>3.0</td>
+        </tr>
+        <tr>
+            <td>JBM Technology</td>
+            <td>1</td>
+            <td>3.5</td>
+        </tr>
+        <tr>
+            <td>Daikin Airconditioning</td>
+            <td>4</td>
+            <td>3.5</td>
+        </tr>
+        <tr>
+            <td>IFB</td>
+            <td>2</td>
+            <td>4.0</td>
+        </tr>
+        <tr>
+            <td>Continental Engine India</td>
+            <td>1</td>
+            <td>Not Provided</td>
+        </tr>
+        <tr>
+            <td>Fedral Bank</td>
+            <td>1</td>
+            <td>14.0</td>
+        </tr>
+        <tr>
+            <td>Frick India Corporation</td>
+            <td>3</td>
+            <td>4.0</td>
+        </tr>
+        <tr>
+            <td>Orion Water Treatment</td>
+            <td>1</td>
+            <td>3.5</td>
+        </tr>
+        <tr>
+            <td>Honda Cars India Pvt. Ltd.</td>
+            <td>7</td>
+            <td>6.0</td>
+        </tr>
+        <tr>
+            <td>Vitalic Health Private Ltd</td>
+            <td>1</td>
+            <td>13.09</td>
+        </tr>
+        <tr>
+            <td>Escorts Kubota Ltd.</td>
+            <td>7</td>
+            <td>3.0</td>
+        </tr>
+        <tr>
+            <td>NILIET</td>
+            <td>1</td>
+            <td>Not Provided</td>
+        </tr>
+    </tbody>
+</table>
+
 <div class="ritz grid-container" dir="ltr">
     <table class="waffle" cellspacing="0" cellpadding="0">
         <tbody>

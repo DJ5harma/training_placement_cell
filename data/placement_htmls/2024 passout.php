@@ -1,253 +1,183 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link type="text/css" rel="stylesheet" href="resources/sheet.css">
-<style type="text/css">
-    .ritz .waffle a {
-        color: inherit;
-    }
-
-    .ritz .waffle .s2 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #d8d8d8;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s7 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s1 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: left;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s0 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #e7e6e6;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s13 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: Arial;
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s12 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #d8d8d8;
-        text-align: center;
-        font-weight: bold;
-        color: #1f1f1f;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s9 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: left;
-        color: #242424;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s4 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: left;
-        color: #313131;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s6 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #222222;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s14 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s5 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: bottom;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s3 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s15 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 10pt;
-        vertical-align: bottom;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s8 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #242424;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s11 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #242424;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s10 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #222222;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
+<style>
+    .s2 {
+        background-color: #007bff;
+        color: white;
     }
 </style>
+
+<table>
+    <thead>
+        <tr>
+            <th>Company</th>
+            <th>Number of Students Placed</th>
+            <th>Average Package (LPA)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Yamaha Motors Solution India Pvt. Ltd.</td>
+            <td>2</td>
+            <td>10.30</td>
+        </tr>
+        <tr>
+            <td>Solitaire Infosys Pvt. Ltd.</td>
+            <td>3</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Repozitory Technologies Pvt. Ltd.</td>
+            <td>5</td>
+            <td>3.84</td>
+        </tr>
+        <tr>
+            <td>Planet Spark</td>
+            <td>7</td>
+            <td>6.50</td>
+        </tr>
+        <tr>
+            <td>ISGEC Heavy Engineering Ltd.</td>
+            <td>2</td>
+            <td>4.95</td>
+        </tr>
+        <tr>
+            <td>Vodafone Idea Limited</td>
+            <td>6</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>JBM</td>
+            <td>8</td>
+            <td>3.50</td>
+        </tr>
+        <tr>
+            <td>Bytriedge Software</td>
+            <td>1</td>
+            <td>6.50</td>
+        </tr>
+        <tr>
+            <td>Cloud Analogy CRM Specialist Ltd.</td>
+            <td>3</td>
+            <td>3.50</td>
+        </tr>
+        <tr>
+            <td>BEL</td>
+            <td>3</td>
+            <td>12.00</td>
+        </tr>
+        <tr>
+            <td>Maruti Suzuki</td>
+            <td>1</td>
+            <td>10.34</td>
+        </tr>
+        <tr>
+            <td>Ice Boy</td>
+            <td>1</td>
+            <td>3.00</td>
+        </tr>
+        <tr>
+            <td>Telbros automotive components</td>
+            <td>1</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Input Zero Technologies Pvt. Ltd.</td>
+            <td>5</td>
+            <td>5.00</td>
+        </tr>
+        <tr>
+            <td>Okruti IT Consulting Pvt. Ltd.</td>
+            <td>2</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Chanderpur Works Pvt. Ltd.</td>
+            <td>5</td>
+            <td>3.50</td>
+        </tr>
+        <tr>
+            <td>Pentagon Space Pvt Ltd</td>
+            <td>4</td>
+            <td>Training</td>
+        </tr>
+        <tr>
+            <td>Wayspire ed-tech Private Limited</td>
+            <td>13</td>
+            <td>5.40</td>
+        </tr>
+        <tr>
+            <td>Intellipaat Software Solutions Pvt. Ltd.</td>
+            <td>1</td>
+            <td>7.25</td>
+        </tr>
+        <tr>
+            <td>YHills Edutech Pvt. Ltd.</td>
+            <td>5</td>
+            <td>7.25</td>
+        </tr>
+        <tr>
+            <td>SKH Group</td>
+            <td>2</td>
+            <td>3.86</td>
+        </tr>
+        <tr>
+            <td>Nupore Filteration Pvt. Ltd.</td>
+            <td>2</td>
+            <td>3.00</td>
+        </tr>
+        <tr>
+            <td>Dassault Systems, Gurugram (IDSL)</td>
+            <td>1</td>
+            <td>3.75</td>
+        </tr>
+        <tr>
+            <td>Beri Udyog</td>
+            <td>9</td>
+            <td>3.50</td>
+        </tr>
+        <tr>
+            <td>Academor Pvt. Ltd.</td>
+            <td>17</td>
+            <td>6.00</td>
+        </tr>
+        <tr>
+            <td>Reva Industries Pvt. Ltd.</td>
+            <td>1</td>
+            <td>4.50</td>
+        </tr>
+        <tr>
+            <td>Eleation Pvt. Ltd.</td>
+            <td>3</td>
+            <td>4.10</td>
+        </tr>
+        <tr>
+            <td>Daikin AC Pvt. Ltd.</td>
+            <td>7</td>
+            <td>3.50</td>
+        </tr>
+        <tr>
+            <td>Nactor Lifescience Pvt. Ltd.</td>
+            <td>3</td>
+            <td>3.50</td>
+        </tr>
+        <tr>
+            <td>Antier Solutions Pvt. Ltd.</td>
+            <td>4</td>
+            <td>3.50</td>
+        </tr>
+        <tr>
+            <td>Panacea Biotec Pvt. Ltd.</td>
+            <td>7</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Sipcon Technologies Pvt. Ltd.</td>
+            <td>1</td>
+            <td>2.20</td>
+        </tr>
+    </tbody>
+</table>
+
+
 <div class="ritz grid-container" dir="ltr">
     <table class="waffle" cellspacing="0" cellpadding="0">
         <tbody>

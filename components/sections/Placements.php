@@ -90,3 +90,57 @@ $next_year = $current_index < count($all_years) - 1 ? $all_years[$current_index 
         color: #0056b3;
     }
 </style>
+
+
+<!-- For table -->
+<style>
+    /* body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f0f2f5;
+      padding: 40px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    } */
+
+    table {
+      border-collapse: collapse;
+      width: 90%;
+      max-width: 1000px;
+      background-color: #fff;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      border-radius: 12px;
+      overflow: hidden;
+      text-align: center;
+    }
+
+    thead {
+      background-color: #007bff;
+      color: white;
+    }
+
+    th, td {
+      padding: 14px 20px;
+      border: 1px solid #ccc;
+    }
+
+    tbody tr:nth-child(even) {
+      background-color: #f8faff;
+    }
+
+    tbody tr:hover {
+      background-color: #e6f0ff;
+    }
+
+    th {
+      font-size: 1rem;
+    }
+
+    td {
+      font-size: 0.95rem;
+      color: #333;
+    }
+
+    
+  </style>

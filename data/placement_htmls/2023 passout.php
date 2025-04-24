@@ -1,194 +1,256 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link type="text/css" rel="stylesheet" href="resources/sheet.css">
-<style type="text/css">
-    .ritz .waffle a {
-        color: inherit;
-    }
-
-    .ritz .waffle .s1 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s5 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #d8d8d8;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 18pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s3 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #d8d8d8;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s6 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #222222;
-        font-family: Arial;
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s9 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: docs-Calibri, Arial;
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s2 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #d8d8d8;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 14pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s11 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: left;
-        font-weight: bold;
-        color: #000000;
-        font-family: docs-Calibri, Arial;
-        font-size: 11pt;
-        vertical-align: bottom;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s4 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 11pt;
-        vertical-align: middle;
-        white-space: nowrap;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s0 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #e7e6e6;
-        text-align: center;
-        font-weight: bold;
-        color: #000000;
-        font-family: "Times New Roman";
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s10 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: Arial;
-        font-size: 10pt;
-        vertical-align: bottom;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s7 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #000000;
-        font-family: "docs-Helvetica Neue", Arial;
-        font-size: 1pt;
-        vertical-align: middle;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
-    }
-
-    .ritz .waffle .s8 {
-        border-bottom: 1px SOLID #000000;
-        border-right: 1px SOLID #000000;
-        background-color: #ffffff;
-        text-align: center;
-        color: #222222;
-        font-family: Arial;
-        font-size: 12pt;
-        vertical-align: middle;
-        white-space: normal;
-        overflow: hidden;
-        word-wrap: break-word;
-        direction: ltr;
-        padding: 0px 3px 0px 3px;
+<style>
+    .s2 {
+        background-color: #007bff;
+        color: white;
     }
 </style>
+
+<table>
+    <thead>
+        <tr>
+            <th>Company</th>
+            <th>Number of Students</th>
+            <th>Average Package (LPA)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Infosys</td>
+            <td>10</td>
+            <td>3.6</td>
+        </tr>
+        <tr>
+            <td>Hexaware</td>
+            <td>11</td>
+            <td>4.36</td>
+        </tr>
+        <tr>
+            <td>Hughes Systique</td>
+            <td>2</td>
+            <td>10.6</td>
+        </tr>
+        <tr>
+            <td>ADP India</td>
+            <td>8</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>Embitel Technologies</td>
+            <td>12</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>Byteridge Software</td>
+            <td>2</td>
+            <td>5.33</td>
+        </tr>
+        <tr>
+            <td>Indus Valley</td>
+            <td>3</td>
+            <td>8.52</td>
+        </tr>
+        <tr>
+            <td>Yamaha Motors Solution India Pvt. Ltd.</td>
+            <td>10</td>
+            <td>7.5</td>
+        </tr>
+        <tr>
+            <td>SOTI Inc. Gurugram</td>
+            <td>1</td>
+            <td>7.5</td>
+        </tr>
+        <tr>
+            <td>Bebo Educational Foundation</td>
+            <td>30</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>ISGEC Heavy Engineering Ltd.</td>
+            <td>2</td>
+            <td>4.25</td>
+        </tr>
+        <tr>
+            <td>HashedIn Deloitte Technologies</td>
+            <td>6</td>
+            <td>8.1</td>
+        </tr>
+        <tr>
+            <td>Input Zero Pvt. Ltd.</td>
+            <td>10</td>
+            <td>7</td>
+        </tr>
+        <tr>
+            <td>Solitaire Infosys Pvt. Ltd.</td>
+            <td>4</td>
+            <td>4.2</td>
+        </tr>
+        <tr>
+            <td>TCS</td>
+            <td>18</td>
+            <td>3.6</td>
+        </tr>
+        <tr>
+            <td>JSW TalenTech 2023</td>
+            <td>10</td>
+            <td>6.5</td>
+        </tr>
+        <tr>
+            <td>Maruti Suzuki India Ltd.</td>
+            <td>3</td>
+            <td>10.34</td>
+        </tr>
+        <tr>
+            <td>Antier Solutions Pvt. Ltd.</td>
+            <td>5</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>Ceasefire Industries Private Limited</td>
+            <td>2</td>
+            <td>5.16</td>
+        </tr>
+        <tr>
+            <td>Federal Bank Campus Recruitment Process 2022-23</td>
+            <td>8</td>
+            <td>5.76</td>
+        </tr>
+        <tr>
+            <td>AVON Cycle</td>
+            <td>1</td>
+            <td>3.5</td>
+        </tr>
+        <tr>
+            <td>Learning Routes</td>
+            <td>4</td>
+            <td>5.7</td>
+        </tr>
+        <tr>
+            <td>Atomberg</td>
+            <td>1</td>
+            <td>2.5</td>
+        </tr>
+        <tr>
+            <td>OSAW Industrial Products Pvt. Ltd (INDOSAW)</td>
+            <td>2</td>
+            <td>3.35</td>
+        </tr>
+        <tr>
+            <td>Daikin Airconditioning India Pvt. Ltd</td>
+            <td>7</td>
+            <td>5.5</td>
+        </tr>
+        <tr>
+            <td>OATI (Open Access Technology India)</td>
+            <td>4</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>Frick India Ltd.</td>
+            <td>6</td>
+            <td>3.5</td>
+        </tr>
+        <tr>
+            <td>Planet Spark</td>
+            <td>1</td>
+            <td>4.1</td>
+        </tr>
+        <tr>
+            <td>NUPORE FILTRATION Systems Pvt. Ltd.</td>
+            <td>3</td>
+            <td>2.5</td>
+        </tr>
+        <tr>
+            <td>Repozitory Pvt. Ltd.</td>
+            <td>1</td>
+            <td>4.5</td>
+        </tr>
+        <tr>
+            <td>PENTAGON SPACE</td>
+            <td>4</td>
+            <td>Training</td>
+        </tr>
+        <tr>
+            <td>Qspider</td>
+            <td>10</td>
+            <td>Training</td>
+        </tr>
+        <tr>
+            <td>Tega Industries Ltd.</td>
+            <td>2</td>
+            <td>4.5</td>
+        </tr>
+        <tr>
+            <td>Cheema Boiler Ltd.</td>
+            <td>1</td>
+            <td>3.5</td>
+        </tr>
+        <tr>
+            <td>Beri Udyog (BUPL)</td>
+            <td>2</td>
+            <td>3.2</td>
+        </tr>
+        <tr>
+            <td>Tata 1 mg Healthcare</td>
+            <td>1</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>World Compliance Technology, Gurgaon</td>
+            <td>1</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>CMR Green Technologies</td>
+            <td>3</td>
+            <td>3.6</td>
+        </tr>
+        <tr>
+            <td>HERO MOTOCORP COORPORATION, GURUGRAM</td>
+            <td>2</td>
+            <td>10.5</td>
+        </tr>
+        <tr>
+            <td>M/s Vikram Power Technologies Pvt.Ltd Yamunanagar</td>
+            <td>1</td>
+            <td>3.5</td>
+        </tr>
+        <tr>
+            <td>Rotaract Club of Young India</td>
+            <td>1</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Austere Systems Pvt Ltd, Gurugram</td>
+            <td>1</td>
+            <td>4.5</td>
+        </tr>
+        <tr>
+            <td>ARCS Infostech, Bangalore</td>
+            <td>1</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>I Assist Innovations Labs, Bangalore (IAIL)</td>
+            <td>1</td>
+            <td>11</td>
+        </tr>
+        <tr>
+            <td>JBM (Jai Bharat Maruti)</td>
+            <td>6</td>
+            <td>3.5</td>
+        </tr>
+        <tr>
+            <td>Telbros Automotive Components Pvt. Ltd.</td>
+            <td>1</td>
+            <td>3.6</td>
+        </tr>
+        <tr>
+            <td>Lumax Industries Ltd.</td>
+            <td>2</td>
+            <td>3.25</td>
+        </tr>
+    </tbody>
+</table>
 <div class="ritz grid-container" dir="ltr">
     <table class="waffle" cellspacing="0" cellpadding="0">
         <tbody>
