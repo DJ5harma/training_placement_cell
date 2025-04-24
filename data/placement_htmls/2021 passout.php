@@ -46,8 +46,8 @@
         <tbody>
             <tr>
                 <td class="s0">Full Name</td>
-                <td class="s1 softmerge">
-                    <div class="softmerge-inner" style="width:158px;left:-3px">Package in LPA</div>
+                <td class="s1">
+                    <div style="width:158px;left:-3px">Package in LPA</div>
                 </td>
             </tr>
             <tr>

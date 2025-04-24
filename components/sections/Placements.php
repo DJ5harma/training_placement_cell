@@ -94,16 +94,6 @@ $next_year = $current_index < count($all_years) - 1 ? $all_years[$current_index 
 
 <!-- For table -->
 <style>
-    /* body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f0f2f5;
-      padding: 40px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-    } */
-
     table {
       border-collapse: collapse;
       width: 90%;
