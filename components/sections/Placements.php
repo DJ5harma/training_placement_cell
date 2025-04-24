@@ -37,6 +37,7 @@ $next_year = $current_index < count($all_years) - 1 ? $all_years[$current_index 
         align-items: center;
         gap: 20px;
         width: 100%;
+        height: 100%;
         overflow: auto;
     }
 
