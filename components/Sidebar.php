@@ -5,11 +5,11 @@
     <a href="?section=StudentCoordinators">
         Student Coordinators
     </a>
-    <!-- <a href="?section=ExecutiveCommitees">
-        Executive Commitees
-    </a> -->
     <a href="?section=Placements">
         Placements
+    </a>
+    <a href="?section=YearwiseGraph">
+        Yearwise Graph
     </a>
     <a href="?section=Partners">
         Our Partners
