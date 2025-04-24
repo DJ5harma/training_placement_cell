@@ -1,117 +1,186 @@
 <style>
-    .s2, .s3 {
+    .s2,
+    .s3 {
         background-color: #007bff;
         color: white;
     }
 </style>
 <table>
-  <thead>
-    <tr>
-      <th>Company</th>
-      <th>Number of Students Placed</th>
-      <th>Average Package (LPA)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>Infosys</td><td>30</td><td>3.60</td></tr>
-    <tr><td>IBM 2017-18</td><td>8</td><td>3.60</td></tr>
-    <tr><td>Cryptographics IT Solution</td><td>7</td><td>3.60</td></tr>
-    <tr><td>Wipro Limited</td><td>12</td><td>3.60</td></tr>
-    <tr><td>Byjus Pvt Limited</td><td>1</td><td>3.60</td></tr>
-    <tr><td>Adani</td><td>5</td><td>3.60</td></tr>
-    <tr><td>Daikin AC</td><td>1</td><td>3.60</td></tr>
-    <tr><td>IDS Infotech</td><td>5</td><td>3.60</td></tr>
-    <tr><td>British Telecom</td><td>4</td><td>3.60</td></tr>
-    <tr><td>Saifintex</td><td>5</td><td>3.60</td></tr>
-    <tr><td>Samsung</td><td>3</td><td>3.60</td></tr>
-    <tr><td>Talent Pull</td><td>7</td><td>3.60</td></tr>
-    <tr><td>Panacea Biotec</td><td>1</td><td>3.60</td></tr>
-    <tr><td>Signicent</td><td>1</td><td>3.60</td></tr>
-    <tr><td>Bosch</td><td>3</td><td>3.60</td></tr>
-    <tr><td>Perfect RFID</td><td>1</td><td>2.00</td></tr>
-    <tr><td>TCS</td><td>1</td><td>3.36</td></tr>
-  </tbody>
+    <thead>
+        <tr>
+            <th>Company</th>
+            <th>Number of Students Placed</th>
+            <th>Average Package (LPA)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Infosys</td>
+            <td>30</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>IBM 2017-18</td>
+            <td>8</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Cryptographics IT Solution</td>
+            <td>7</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Wipro Limited</td>
+            <td>12</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Byjus Pvt Limited</td>
+            <td>1</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Adani</td>
+            <td>5</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Daikin AC</td>
+            <td>1</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>IDS Infotech</td>
+            <td>5</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>British Telecom</td>
+            <td>4</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Saifintex</td>
+            <td>5</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Samsung</td>
+            <td>3</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Talent Pull</td>
+            <td>7</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Panacea Biotec</td>
+            <td>1</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Signicent</td>
+            <td>1</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Bosch</td>
+            <td>3</td>
+            <td>3.60</td>
+        </tr>
+        <tr>
+            <td>Perfect RFID</td>
+            <td>1</td>
+            <td>2.00</td>
+        </tr>
+        <tr>
+            <td>TCS</td>
+            <td>1</td>
+            <td>3.36</td>
+        </tr>
+    </tbody>
 </table>
 <div class="ritz grid-container" dir="ltr">
     <table class="waffle" cellspacing="0" cellpadding="0">
         <tbody>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s0">Full Name</td>
                 <td class="s0">Package in LPA</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s1"></td>
                 <td class="s1"></td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Infosys </td>
                 <td class="s3"></td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">AASTHA SAINI</td>
                 <td class="s1">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">ABHISHEK RANA</td>
                 <td class="s1">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">GAURAV JAIN</td>
                 <td class="s1">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">VINAY RATHI</td>
                 <td class="s1">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">SHILKY GUPTA</td>
                 <td class="s1">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">AASHI JAIN</td>
                 <td class="s1">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">SWATI NARANG</td>
                 <td class="s1">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">SHUBHAM CHAUDHARY</td>
                 <td class="s1">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">SHIVANI PRUTHI</td>
                 <td class="s1">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">NIKHIL KUMAR</td>
                 <td class="s1">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">HIMANSHU DALAL</td>
                 <td class="s1">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">DEEPAK KADYAN</td>
                 <td class="s1">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">ANUBHAV</td>
                 <td class="s1">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">ARJUN JOSHI</td>
                 <td class="s1">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">AAYUSH BEHAL</td>
                 <td class="s1">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">KUNAL ARORA</td>
                 <td class="s1">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">VAIBHAV GOYAL</td>
                 <td class="s1">3.6</td>
             </tr>

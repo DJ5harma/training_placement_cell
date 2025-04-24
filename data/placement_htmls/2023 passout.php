@@ -254,83 +254,83 @@
 <div class="ritz grid-container" dir="ltr">
     <table class="waffle" cellspacing="0" cellpadding="0">
         <tbody>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s0">Student Name</td>
                 <td class="s0">Package in LPA</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s1"></td>
                 <td class="s1"></td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Infosys </td>
-                <td class="s3"></td>
+                <td class="s2"></td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Ishant Khurana</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Shivam Varshney</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Abhishek Kumar</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Amit Kumar</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Lakshay Yadav</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Lovish Aggarwal</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Riya Johar</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Shivani DHIMAN</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Aakash Tiwari</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Manish</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4"></td>
                 <td class="s4"></td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Hexaware</td>
-                <td class="s5"></td>
+                <td class="s2"></td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Jitesh Bansal</td>
                 <td class="s4">6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Kartik Dhar</td>
                 <td class="s4">4</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Aryan Singh</td>
                 <td class="s4">4</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Rakshita Singh Khokhar</td>
                 <td class="s4">4</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Lokesh</td>
                 <td class="s4">4</td>
             </tr>
@@ -360,7 +360,7 @@
             </tr>
             <tr style="height: 20px">
                 <td class="s2">Hughes Systique</td>
-                <td class="s5"></td>
+                <td class="s2"></td>
             </tr>
             <tr style="height: 20px">
                 <td class="s4">Yashika Atreja</td>
@@ -376,7 +376,7 @@
             </tr>
             <tr style="height: 20px">
                 <td class="s2">ADP India</td>
-                <td class="s5"></td>
+                <td class="s2"></td>
             </tr>
             <tr style="height: 20px">
                 <td class="s4">Jitesh Bansal</td>
@@ -416,7 +416,7 @@
             </tr>
             <tr style="height: 20px">
                 <td class="s2">Embitel Technologies</td>
-                <td class="s5"></td>
+                <td class="s2"></td>
             </tr>
             <tr style="height: 20px">
                 <td class="s4">Aakash Tiwari</td>
@@ -472,7 +472,7 @@
             </tr>
             <tr style="height: 20px">
                 <td class="s2">Byteridge Software</td>
-                <td class="s5"></td>
+                <td class="s2"></td>
             </tr>
             <tr style="height: 20px">
                 <td class="s4">Hritik Khurana</td>
@@ -488,7 +488,7 @@
             </tr>
             <tr style="height: 20px">
                 <td class="s2">Indus Valley</td>
-                <td class="s5"></td>
+                <td class="s2"></td>
             </tr>
             <tr style="height: 20px">
                 <td class="s4">Aakash Tiwari</td>
@@ -508,7 +508,7 @@
             </tr>
             <tr style="height: 20px">
                 <td class="s2">Yamaha Motors Solution India Pvt. Ltd.</td>
-                <td class="s5"></td>
+                <td class="s2"></td>
             </tr>
             <tr style="height: 20px">
                 <td class="s4">Abhinandan Kumar</td>
@@ -556,7 +556,7 @@
             </tr>
             <tr style="height: 20px">
                 <td class="s2">SOTI Inc. Gurugram</td>
-                <td class="s5"></td>
+                <td class="s2"></td>
             </tr>
             <tr style="height: 20px">
                 <td class="s4">Lokesh Gupta</td>

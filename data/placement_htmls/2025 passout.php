@@ -112,88 +112,86 @@
     </tbody>
 </table>
 
-
-
-<div class="ritz grid-container" dir="ltr">
-    <table class="waffle" cellspacing="0" cellpadding="0">
+<div>
+    <table>
         <tbody>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s0">Student Name</td>
                 <td class="s0">Package in LPA</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s1"></td>
                 <td class="s1"></td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">75way Technologies PVT. LTD.</td>
                 <td class="s2"></td>
             </tr>
-            <tr style="height: 19px">
-                <td class="s3" dir="ltr">Dushyant Garg</td>
+            <tr>
+                <td class="s3">Dushyant Garg</td>
                 <td class="s1">3.63</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Jay Verma</td>
                 <td class="s1">5</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Yashpal</td>
                 <td class="s1">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Aditya</td>
                 <td class="s1">4.5</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s1"></td>
                 <td class="s1"></td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">WaySpire </td>
                 <td class="s2"></td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s1">Naman</td>
                 <td class="s1">7</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s1">Himanshu Tiwari</td>
                 <td class="s1">7</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s1">Mamta</td>
                 <td class="s1">7</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s1">Chandan Jaiswal</td>
                 <td class="s1">7</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s1">Juhi</td>
                 <td class="s1">7</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s1">Dev Mishra</td>
                 <td class="s1">7</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s1">Varsha</td>
                 <td class="s1">7</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s1">Bharat Sharma</td>
                 <td class="s1">7</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s1">Tushti</td>
                 <td class="s1">7</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s1">Nishu Kumari</td>
                 <td class="s1">7</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s1">Arun Kumar</td>
                 <td class="s1">7</td>
             </tr>
@@ -322,11 +320,11 @@
                 <td class="s2"></td>
             </tr>
             <tr style="height: 20px">
-                <td class="s6" dir="ltr">Arnav Sharma</td>
+                <td class="s6">Arnav Sharma</td>
                 <td class="s1">3.6</td>
             </tr>
             <tr style="height: 20px">
-                <td class="s6" dir="ltr">Mohit</td>
+                <td class="s6">Mohit</td>
                 <td class="s1">3.6</td>
             </tr>
             <tr style="height: 20px">
@@ -795,7 +793,7 @@
             </tr>
             <tr style="height: 20px">
                 <td class="s2">BEL</td>
-                <td class="s1"></td>
+                <td class="s2"></td>
             </tr>
             <tr style="height: 20px">
                 <td class="s1">Aniket Bihana</td>
@@ -1031,19 +1029,19 @@
             </tr>
             <tr style="height: 20px">
                 <td class="s13">Prachi Sharma </td>
-                <td class="s1" dir="ltr">4</td>
+                <td class="s1">4</td>
             </tr>
             <tr style="height: 20px">
                 <td class="s13">Arzoo</td>
-                <td class="s1" dir="ltr">4</td>
+                <td class="s1">4</td>
             </tr>
             <tr style="height: 20px">
                 <td class="s13">Rakshit</td>
-                <td class="s1" dir="ltr">4</td>
+                <td class="s1">4</td>
             </tr>
             <tr style="height: 20px">
                 <td class="s13">Juhi</td>
-                <td class="s1" dir="ltr">4</td>
+                <td class="s1">4</td>
             </tr>
         </tbody>
     </table>

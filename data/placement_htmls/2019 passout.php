@@ -28,85 +28,85 @@
 <div class="ritz grid-container" dir="ltr">
     <table class="waffle" cellspacing="0" cellpadding="0">
         <tbody>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s0">Full Name</td>
                 <td class="s1 softmerge">
                     <div class="softmerge-inner" style="width:168px;left:-3px">Package in LPA</div>
                 </td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Infosys </td>
                 <td class="s3"></td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Shilpa Nagpal</td>
                 <td class="s4">8</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">GOURAV PANDEY</td>
                 <td class="s4">8</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">CHINTAN JAIN</td>
                 <td class="s4">5</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">ARUN BANSAL</td>
                 <td class="s4">5</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">ROHAN MALIK</td>
                 <td class="s4">5</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">SHIKHAR GOEL</td>
                 <td class="s4">5</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Mayank</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Varsha</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Abhishek</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Ramandeep</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Anmol</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Sagar</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Anshuman</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Navkiran</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Rupali</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Devanshi</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Ankita</td>
                 <td class="s4">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s4">Naveen</td>
                 <td class="s4">3.6</td>
             </tr>

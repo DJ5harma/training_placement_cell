@@ -1,5 +1,5 @@
 <style>
-    .s3 {
+    .s3, .s4 {
         background-color: #007bff;
         color: white;
     }
@@ -33,85 +33,85 @@
 <div class="ritz grid-container" dir="ltr">
     <table class="waffle" cellspacing="0" cellpadding="0">
         <tbody>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s0">Full Name</td>
                 <td class="s1 softmerge">
                     <div class="softmerge-inner" style="width:167px;left:-3px">Package in LPA</div>
                 </td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2"></td>
                 <td class="s2"></td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s3">INFOSYS</td>
                 <td class="s4"></td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Pushkar Rai</td>
                 <td class="s2">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Devanshi Gupta</td>
                 <td class="s2">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Rajat Kumar</td>
                 <td class="s2">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Saurabh Srivastava</td>
                 <td class="s2">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Parthik Yadav</td>
                 <td class="s2">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Akriti Goyal</td>
                 <td class="s2">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Jha Ansuman Sanjay Kumar</td>
                 <td class="s2">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Jasjot Singh</td>
                 <td class="s2">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Tanuj Bhatnagar</td>
                 <td class="s2">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Jyoti Munjal</td>
                 <td class="s2">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Charu Goyal</td>
                 <td class="s2">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Uddeshy Dhingra</td>
                 <td class="s2">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Rajat Bhola</td>
                 <td class="s2">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Rahul Dahiya</td>
                 <td class="s2">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Swati Verma</td>
                 <td class="s2">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Pawan Bir</td>
                 <td class="s2">3.6</td>
             </tr>
-            <tr style="height: 19px">
+            <tr>
                 <td class="s2">Ramandeep Singh</td>
                 <td class="s2">3.6</td>
             </tr>
