@@ -4,6 +4,36 @@ $all_years = range(2018, 2025);
 $current_index = array_search($year, array_map('strval', $all_years));
 $prev_year = $current_index > 0 ? $all_years[$current_index - 1] : null;
 $next_year = $current_index < count($all_years) - 1 ? $all_years[$current_index + 1] : null;
+
+switch ($year) {
+  case '2018':
+    $dexter_url = "GjIh7tQ3jV9c2HIO6FjalDsK0EVsiUXu";
+    break;
+  case '2019':
+    $dexter_url = "U2jyBguQ6veniLn0LQ8jyhsG0TrFAWpH";
+    break;
+  case '2020':
+    $dexter_url = "IPuLMZxz5JweMtwSlpofP4uojagruq16";
+    break;
+  case '2021':
+    $dexter_url = "iwlm29q1dD0fd5jCZ3SMn99AnGYc2vdJ";
+    break;
+  case '2022':
+    $dexter_url = "mCQiwDSgxwxsoq3QuZxTc65h8cp8rkel";
+    break;
+  case '2023':
+    $dexter_url = "yFRxztEkVc4t09cueL8cmhopw5v2oNdM";
+    break;
+  case '2024':
+    $dexter_url = "eDoPxdeUejoT9jzQ2VbX1MmWNQsylCaC";
+    break;
+  case '2025':
+    $dexter_url = "h3bcDOrwJfLKnf8QeRGjhCIjPSC7Z4Zp";
+    break;
+  default:
+    $dexter_url = "h3bcDOrwJfLKnf8QeRGjhCIjPSC7Z4Zp";
+    break;
+}
 ?>
 <div id="Placement">
   <h1 class="heading">Placements for the year <?php echo $year; ?></h1>
@@ -26,8 +56,21 @@ $next_year = $current_index < count($all_years) - 1 ? $all_years[$current_index 
       <a class="arrow" href="?section=Placements&year=<?php echo $next_year; ?>">&#9654;</a>
     <?php endif; ?>
   </div>
+  <div style="width: 100%; display: flex; flex-direction:column; align-items: center;">
+    <!-- <?php echo "
+        <iframe
+          src='https://chart-generator.draxlr.com/embed/$dexter_url'
+          loading='lazy'
+          title='Bar chart $year'
+          style='
+            width: 100%;
+            height:80vh;
+          '></iframe>
+    " ?> -->
+    <?php echo "<img src='data/Graphs/Graph$year.png' />" ?>
 
-  <?php include 'data/placement_htmls/' . $year . ' passout.php'; ?>
+    <?php include 'data/placement_htmls/' . $year . ' passout.php'; ?>
+  </div>
 </div>
 
 <style>

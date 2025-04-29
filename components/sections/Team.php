@@ -1,7 +1,7 @@
 <?php
 $team = [
     [
-        "name" => "Dr. Nikhil Marriwala",
+        "name" => "Dr. Nikhil Kumar Marriwala",
         "role" => "Training & Placement Officer",
         "contact" => "9416668482",
         "email" => "nmarriwala@kuk.ac.in",
