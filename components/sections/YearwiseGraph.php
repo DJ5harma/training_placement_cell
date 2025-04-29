@@ -1,6 +1,6 @@
 <div id="YearwiseGraph">
     <h1 class="heading">Our Yearwise Graph</h1>
-    <h2>Average Package by year (in LPA)</h2>
+    <h3>Year v/s Average Package (LPA)</h3>
     <!-- <iframe
         src="https://chart-generator.draxlr.com/embed/uxXvhBaOxVv6qfjT6l2x3EQeDthLcgQg"
         loading="lazy"

@@ -67,6 +67,8 @@ switch ($year) {
             height:80vh;
           '></iframe>
     " ?> -->
+
+    <h3>Firm v/s Package (LPA)</h3>
     <?php echo "<img src='data/Graphs/Graph$year.png' />" ?>
 
     <?php include 'data/placement_htmls/' . $year . ' passout.php'; ?>
