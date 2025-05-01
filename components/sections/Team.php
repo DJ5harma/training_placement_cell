@@ -2,7 +2,7 @@
 $team = [
     [
         "name" => "Dr. Nikhil Kumar Marriwala",
-        "role" => "Training & Placement Officer",
+        "role" => "Training & Placement Officer,<br />Associate Professor,<br />U.I.E.T., Kurukshetra University Kurukshetra",
         "contact" => "9416668482",
         "email" => "nmarriwala@kuk.ac.in",
         "image" => "images/drnikhil.jpg"
